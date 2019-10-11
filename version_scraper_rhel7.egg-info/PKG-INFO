@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: version-scraper-rhel7
+Version: 1.0.0
+Summary: RHEL 7 scraper
+Home-page: https://github.com/pythonredhat/version-scraper-rhel7
+Author: Turbo Python
+Author-email: office@realpython.com
+License: MIT
+Description: ### pandas with beautifulsoup
+        
+        https://srome.github.io/Parsing-HTML-Tables-in-Python-with-BeautifulSoup-and-pandas/
+        
+        
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Description-Content-Type: text/markdown
