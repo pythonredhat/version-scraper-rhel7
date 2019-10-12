@@ -1,0 +1,12 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+version_scraper_rhel7/__init__.py
+version_scraper_rhel7/__main__.py
+version_scraper_rhel7.egg-info/PKG-INFO
+version_scraper_rhel7.egg-info/SOURCES.txt
+version_scraper_rhel7.egg-info/dependency_links.txt
+version_scraper_rhel7.egg-info/entry_points.txt
+version_scraper_rhel7.egg-info/requires.txt
+version_scraper_rhel7.egg-info/top_level.txt

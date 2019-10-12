@@ -1,0 +1,3 @@
+[console_scripts]
+version_scraper_rhel7 = version_scraper_rhel7.__main__:main
+

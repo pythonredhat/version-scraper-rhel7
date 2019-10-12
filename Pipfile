@@ -10,6 +10,7 @@ pylint = "*"
 requests = "*"
 bs4 = "*"
 pandas = "*"
+bumpversion = "*"
 
 [requires]
 python_version = "3.7"
